@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: Welcome to TKS TECHNOLOGY - blog
 image: /images/welcome.jpg
 imageMeta:
   attribution:
@@ -12,7 +12,7 @@ tags:
   - getting-started
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+Hey! Welcome to TKS TECHNOLOGY - blog, it's great to have you :)
 
 We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
