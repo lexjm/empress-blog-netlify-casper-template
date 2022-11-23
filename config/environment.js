@@ -24,7 +24,7 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: 'empress-blog',
+      title: 'TKS TECHNOLOGY - blog',
       description: 'Static Blog System - Built with Ember',
       coverImage: '/images/blog-cover.jpg',
 
@@ -34,7 +34,7 @@ module.exports = function (environment) {
           route: 'index',
         },
         {
-          label: 'Built by Chris Manson',
+          label: 'Built by A. M . ',
           route: 'page',
           id: 'chris-manson',
         },
